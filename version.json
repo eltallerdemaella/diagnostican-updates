@@ -1,5 +1,5 @@
 {
-  "version": "2.0.20",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.20/DiagnostiCAN_PLUS-2.0.20.zip",
-  "notes": "Clic derecho (cortar/copiar/pegar) en toda la app, licencias permanentes con protección, instalador sin dependencia de Python, y subida real de logs de diagnóstico desde CONFIGURACIÓN."
+  "version": "2.0.21",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.21/DiagnostiCAN_PLUS-2.0.21.zip",
+  "notes": "Diálogo de aviso unificado y no modal (recaptura de pantalla moviéndose por la app) para Notificar error / Enviar logs de diagnóstico."
 }
