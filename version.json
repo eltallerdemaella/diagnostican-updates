@@ -1,5 +1,5 @@
 {
-  "version": "2.0.16",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.16/DiagnostiCAN_PLUS-2.0.16.zip",
-  "notes": "Asistente de primer arranque arreglado (codigo postal, logo, tema claro/oscuro real) + Notificar error (captura de pantalla + log, subido a la plataforma)."
+  "version": "2.0.17",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.17/DiagnostiCAN_PLUS-2.0.17.zip",
+  "notes": "Comprobacion de actualizacion OBLIGATORIA al arrancar + aviso de licencia caducada/sin activar."
 }
