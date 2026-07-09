@@ -1,5 +1,5 @@
 {
-  "version": "2.0.19",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.19/DiagnostiCAN_PLUS-2.0.19.zip",
-  "notes": "Auto-actualizador arreglado de verdad (probado en real) + nueva Captura Guiada en el sniffer CAN para aislar interruptores, potenciómetros, ángulo de giro y pedal del acelerador."
+  "version": "2.0.20",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.20/DiagnostiCAN_PLUS-2.0.20.zip",
+  "notes": "Clic derecho (cortar/copiar/pegar) en toda la app, licencias permanentes con protección, instalador sin dependencia de Python, y subida real de logs de diagnóstico desde CONFIGURACIÓN."
 }
