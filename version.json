@@ -1,5 +1,5 @@
 {
-  "version": "2.0.18",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.18/DiagnostiCAN_PLUS-2.0.18.zip",
-  "notes": "Arregla contraste de botones en el asistente de primer arranque."
+  "version": "2.0.19",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.19/DiagnostiCAN_PLUS-2.0.19.zip",
+  "notes": "Auto-actualizador arreglado de verdad (probado en real) + nueva Captura Guiada en el sniffer CAN para aislar interruptores, potenciómetros, ángulo de giro y pedal del acelerador."
 }
