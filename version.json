@@ -1,5 +1,5 @@
 {
-  "version": "2.0.14",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.14/DiagnostiCAN_PLUS-2.0.14.zip",
-  "notes": "Base DOLZ universal desplegada (subida anonima gateada por licencia) + modulo ADQUIRIR DID + mejoras de deteccion VIN/PID."
+  "version": "2.0.16",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.16/DiagnostiCAN_PLUS-2.0.16.zip",
+  "notes": "Asistente de primer arranque arreglado (codigo postal, logo, tema claro/oscuro real) + Notificar error (captura de pantalla + log, subido a la plataforma)."
 }
