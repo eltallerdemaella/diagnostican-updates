@@ -1,5 +1,5 @@
 {
-  "version": "2.0.24",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.24/DiagnostiCAN_PLUS_2.0.24.zip",
-  "notes": "Captura Guiada v3: mando de intermitentes (derecha/izquierda) y mando de luces con sub-funciones seleccionables (posición/cortas/largas/ráfagas), y fiabilidad basada en tiempo físico real (no en muestras) con 3 ventanas de confirmación siempre."
+  "version": "2.0.25",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.25/DiagnostiCAN_PLUS_2.0.25.zip",
+  "notes": "Arregla ABRIR LOGS y el cierre del diálogo de Notificar error al quedar en cola (causa de los avisos duplicados). Captura Guiada: ventana de 6→5 segundos y nuevo botón 'Confirmar en BDD' que precarga el etiquetado del candidato encontrado."
 }
