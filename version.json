@@ -1,5 +1,5 @@
 {
-  "version": "2.0.22",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.22/DiagnostiCAN_PLUS-2.0.22.zip",
-  "notes": "Filtro por ID del sniffer arreglado (Mostrar solo/por ID ya oculta el resto), Captura Guiada reconoce señales intermitentes, cola de reintento sin conexión, aviso push de nuevos informes."
+  "version": "2.0.23",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.23/DiagnostiCAN_PLUS-2.0.23.zip",
+  "notes": "Captura Guiada rediseñada (ventana de tiempo de 3 accionamientos en vez de EMPEZAR/TERMINAR manual), arreglo real del modo TX (GVRET ya no finge éxito en solo-escucha), ventanas centradas."
 }
