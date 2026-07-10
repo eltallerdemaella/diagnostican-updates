@@ -1,5 +1,5 @@
 {
-  "version": "2.0.27",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.27/DiagnostiCAN_PLUS_2.0.27.zip",
-  "notes": "Biblioteca CAN reorganizada: árbol MARCA→MODELO→AÑO, explicación al pasar el ratón, ficha simplificada, y nuevo origen de la lectura (OBD/línea)."
+  "version": "2.0.28",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.28/DiagnostiCAN_PLUS_2.0.28.zip",
+  "notes": "Barra del sniffer CAN reorganizada por función (ver/acción/avanzado), Auto-scroll deshabilitado fuera de Log, y arreglo real de 'Mostrar solo esta ID' cuando quedaba tapado por otro filtro."
 }
