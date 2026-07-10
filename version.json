@@ -1,5 +1,5 @@
 {
-  "version": "2.0.23",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.23/DiagnostiCAN_PLUS-2.0.23.zip",
-  "notes": "Captura Guiada rediseñada (ventana de tiempo de 3 accionamientos en vez de EMPEZAR/TERMINAR manual), arreglo real del modo TX (GVRET ya no finge éxito en solo-escucha), ventanas centradas."
+  "version": "2.0.24",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.24/DiagnostiCAN_PLUS_2.0.24.zip",
+  "notes": "Captura Guiada v3: mando de intermitentes (derecha/izquierda) y mando de luces con sub-funciones seleccionables (posición/cortas/largas/ráfagas), y fiabilidad basada en tiempo físico real (no en muestras) con 3 ventanas de confirmación siempre."
 }
