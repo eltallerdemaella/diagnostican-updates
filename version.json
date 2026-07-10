@@ -1,5 +1,5 @@
 {
-  "version": "2.0.26",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.26/DiagnostiCAN_PLUS_2.0.26.zip",
-  "notes": "Pantalla CAN: RX a pantalla completa por defecto (TX solo por Avanzado), columnas redimensionables en la vista Única con memoria entre sesiones, y auto-ajuste de columnas al abrir el panel TX."
+  "version": "2.0.27",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.27/DiagnostiCAN_PLUS_2.0.27.zip",
+  "notes": "Biblioteca CAN reorganizada: árbol MARCA→MODELO→AÑO, explicación al pasar el ratón, ficha simplificada, y nuevo origen de la lectura (OBD/línea)."
 }
