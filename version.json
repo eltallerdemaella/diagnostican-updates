@@ -1,5 +1,5 @@
 {
-  "version": "2.0.25",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.25/DiagnostiCAN_PLUS_2.0.25.zip",
-  "notes": "Arregla ABRIR LOGS y el cierre del diálogo de Notificar error al quedar en cola (causa de los avisos duplicados). Captura Guiada: ventana de 6→5 segundos y nuevo botón 'Confirmar en BDD' que precarga el etiquetado del candidato encontrado."
+  "version": "2.0.26",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.26/DiagnostiCAN_PLUS_2.0.26.zip",
+  "notes": "Pantalla CAN: RX a pantalla completa por defecto (TX solo por Avanzado), columnas redimensionables en la vista Única con memoria entre sesiones, y auto-ajuste de columnas al abrir el panel TX."
 }
