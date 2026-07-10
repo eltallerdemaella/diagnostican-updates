@@ -1,5 +1,5 @@
 {
-  "version": "2.0.21",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.21/DiagnostiCAN_PLUS-2.0.21.zip",
-  "notes": "Diálogo de aviso unificado y no modal (recaptura de pantalla moviéndose por la app) para Notificar error / Enviar logs de diagnóstico."
+  "version": "2.0.22",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.22/DiagnostiCAN_PLUS-2.0.22.zip",
+  "notes": "Filtro por ID del sniffer arreglado (Mostrar solo/por ID ya oculta el resto), Captura Guiada reconoce señales intermitentes, cola de reintento sin conexión, aviso push de nuevos informes."
 }
