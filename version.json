@@ -1,5 +1,5 @@
 {
-  "version": "2.0.31",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.31/DiagnostiCAN_PLUS_2.0.31.zip",
-  "notes": "5 arreglos/mejoras: bytes desalineados al redimensionar columnas, Biblioteca CAN (clic en toda la línea para desplegar + color de selección unificado y más claro), factor multiplicativo en valores como RPM, borrar alias/falso positivo (local y de BDD), y botón \"Mostrar candidatos\" en Captura Guiada."
+  "version": "2.0.32",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.32/DiagnostiCAN_PLUS_2.0.32.zip",
+  "notes": "Editor de alias del sniffer ampliado: rango de bytes (desde/hasta) por función y varias funciones distintas en la misma ID, con precarga desde la BDD para no perder lo ya guardado."
 }
