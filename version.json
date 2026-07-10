@@ -1,5 +1,5 @@
 {
-  "version": "2.0.29",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.29/DiagnostiCAN_PLUS_2.0.29.zip",
-  "notes": "Auto-recuperación: si una actualización deja una versión que no arranca, el software detecta el fallo solo, restaura la última versión estable y avisa con un informe de la incidencia."
+  "version": "2.0.30",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.30/DiagnostiCAN_PLUS_2.0.30.zip",
+  "notes": "Icono corregido (borde naranja visible en los 4 lados) y aviso explícito de reinicio automático durante la descarga de una actualización."
 }
