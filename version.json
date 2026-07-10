@@ -1,5 +1,5 @@
 {
-  "version": "2.0.28",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.28/DiagnostiCAN_PLUS_2.0.28.zip",
-  "notes": "Barra del sniffer CAN reorganizada por función (ver/acción/avanzado), Auto-scroll deshabilitado fuera de Log, y arreglo real de 'Mostrar solo esta ID' cuando quedaba tapado por otro filtro."
+  "version": "2.0.29",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.29/DiagnostiCAN_PLUS_2.0.29.zip",
+  "notes": "Auto-recuperación: si una actualización deja una versión que no arranca, el software detecta el fallo solo, restaura la última versión estable y avisa con un informe de la incidencia."
 }
