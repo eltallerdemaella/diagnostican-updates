@@ -1,5 +1,5 @@
 {
-  "version": "2.0.33",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.33/DiagnostiCAN_PLUS_2.0.33.zip",
-  "notes": "Fusión CAN/DECODIFICACIÓN + decodificación DBC en vivo (antes no decodificaba nada con motor en marcha) + biblioteca de 59 DBC + Captura Guiada en 2 rondas (antes 3) con 7 mejoras revisadas del servidor."
+  "version": "2.0.34",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.34/DiagnostiCAN_PLUS_2.0.34.zip",
+  "notes": "Botón VEHÍCULO en la pantalla CAN (cambiar de vehículo sin reiniciar) y buscador de parámetros (lupa) en DIAGNÓSTICO EN VIVO."
 }
