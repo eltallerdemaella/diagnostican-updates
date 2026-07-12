@@ -1,5 +1,5 @@
 {
-  "version": "2.0.32",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.32/DiagnostiCAN_PLUS_2.0.32.zip",
-  "notes": "Editor de alias del sniffer ampliado: rango de bytes (desde/hasta) por función y varias funciones distintas en la misma ID, con precarga desde la BDD para no perder lo ya guardado."
+  "version": "2.0.33",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.33/DiagnostiCAN_PLUS_2.0.33.zip",
+  "notes": "Fusión CAN/DECODIFICACIÓN + decodificación DBC en vivo (antes no decodificaba nada con motor en marcha) + biblioteca de 59 DBC + Captura Guiada en 2 rondas (antes 3) con 7 mejoras revisadas del servidor."
 }
