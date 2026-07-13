@@ -1,5 +1,5 @@
 {
-  "version": "2.0.39",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.39/DiagnostiCAN_PLUS_2.0.39.zip",
-  "notes": "Corrige el error al guardar captura en la pantalla CAN, que en algunos PCs seguia fallando sin avisar con claridad ni guardar nada."
+  "version": "2.0.40",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.40/DiagnostiCAN_PLUS_2.0.40.zip",
+  "notes": "Elimina accesos internos que el cliente no necesita en CONFIGURACION (panel duplicado y panel web de fabrica del adaptador WiFi)."
 }
