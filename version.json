@@ -1,5 +1,5 @@
 {
-  "version": "2.0.42",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.42/DiagnostiCAN_PLUS_2.0.42.zip",
-  "notes": "Corrige bug real de guardado en CAN (fallaba siempre). Reorganiza barra CAN. Botones simetricos en Captura guiada. Nuevo USAR MODELO en BDD CAN."
+  "version": "2.0.43",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.43/DiagnostiCAN_PLUS_2.0.43.zip",
+  "notes": "Corrige el cuelgue al Analizar+Graficar una ID en CAN tras sesiones largas (tope de 20.000 tramas por ID)."
 }
