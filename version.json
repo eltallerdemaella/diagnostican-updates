@@ -1,5 +1,5 @@
 {
-  "version": "2.0.40",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.40/DiagnostiCAN_PLUS_2.0.40.zip",
-  "notes": "Elimina accesos internos que el cliente no necesita en CONFIGURACION (panel duplicado y panel web de fabrica del adaptador WiFi)."
+  "version": "2.0.41",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.41/DiagnostiCAN_PLUS_2.0.41.zip",
+  "notes": "Quita el enlace publico DE DONDE SALE en BDD CAN (sin utilidad para el taller). Corrige la v2.0.40, publicada por error."
 }
