@@ -1,5 +1,5 @@
 {
-  "version": "2.0.37",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.37/DiagnostiCAN_PLUS_2.0.37.zip",
-  "notes": "Nuevo: Reproducir captura completa sobre el bus real, respetando el ritmo original entre tramas."
+  "version": "2.0.38",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.38/DiagnostiCAN_PLUS_2.0.38.zip",
+  "notes": "Botón VEHÍCULO siempre reconocible + log real en avisos de auto-recuperación."
 }
