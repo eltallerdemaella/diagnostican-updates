@@ -1,5 +1,5 @@
 {
-  "version": "2.0.41",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.41/DiagnostiCAN_PLUS_2.0.41.zip",
-  "notes": "Quita el enlace publico DE DONDE SALE en BDD CAN (sin utilidad para el taller). Corrige la v2.0.40, publicada por error."
+  "version": "2.0.42",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.42/DiagnostiCAN_PLUS_2.0.42.zip",
+  "notes": "Corrige bug real de guardado en CAN (fallaba siempre). Reorganiza barra CAN. Botones simetricos en Captura guiada. Nuevo USAR MODELO en BDD CAN."
 }
