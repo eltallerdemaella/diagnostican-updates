@@ -1,5 +1,5 @@
 {
-  "version": "2.0.34",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.34/DiagnostiCAN_PLUS_2.0.34.zip",
-  "notes": "Botón VEHÍCULO en la pantalla CAN (cambiar de vehículo sin reiniciar) y buscador de parámetros (lupa) en DIAGNÓSTICO EN VIVO."
+  "version": "2.0.35",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.35/DiagnostiCAN_PLUS_2.0.35.zip",
+  "notes": "DIAGNÓSTICO EN VIVO filtra de verdad los parámetros no soportados por el vehículo (antes solo avisaba en un diálogo aparte, sin ocultar la lista principal)."
 }
