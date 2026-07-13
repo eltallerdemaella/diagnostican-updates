@@ -1,5 +1,5 @@
 {
-  "version": "2.0.36",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.36/DiagnostiCAN_PLUS_2.0.36.zip",
-  "notes": "Nuevo: Descubrir centralitas — barrido de direcciones de ECU para vehículos atípicos, sin escribir nada en el vehículo."
+  "version": "2.0.37",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.37/DiagnostiCAN_PLUS_2.0.37.zip",
+  "notes": "Nuevo: Reproducir captura completa sobre el bus real, respetando el ritmo original entre tramas."
 }
