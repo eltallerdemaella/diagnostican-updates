@@ -1,5 +1,5 @@
 {
-  "version": "2.0.44",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.44/DiagnostiCAN_PLUS_2.0.44.zip",
-  "notes": "Nuevo boton Combinar 2 bytes en Analizar+Graficar (angulo de giro y senales similares de 16 bits)."
+  "version": "2.0.45",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.45/DiagnostiCAN_PLUS_2.0.45.zip",
+  "notes": "Botones de Captura guiada simetricos de verdad (sin emoji). Bytes nombrados en Analizar+Graficar ahora se ven en SEÑALES DECODIFICADAS, en vivo y con archivos."
 }
