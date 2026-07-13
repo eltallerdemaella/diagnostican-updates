@@ -1,5 +1,5 @@
 {
-  "version": "2.0.43",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.43/DiagnostiCAN_PLUS_2.0.43.zip",
-  "notes": "Corrige el cuelgue al Analizar+Graficar una ID en CAN tras sesiones largas (tope de 20.000 tramas por ID)."
+  "version": "2.0.44",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.44/DiagnostiCAN_PLUS_2.0.44.zip",
+  "notes": "Nuevo boton Combinar 2 bytes en Analizar+Graficar (angulo de giro y senales similares de 16 bits)."
 }
