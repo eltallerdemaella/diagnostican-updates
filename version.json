@@ -1,5 +1,5 @@
 {
-  "version": "2.0.52",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.52/DiagnostiCAN_PLUS_v2.0.52.zip",
-  "notes": "La barra de conexion/captura CAN ya no invade pestanas que no la usan; en CAN, AVANZADO y el contador de tramas se reordenan."
+  "version": "2.0.53",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.53/DiagnostiCAN_PLUS_v2.0.53.zip",
+  "notes": "Fix real: Registro Multiparametro se quedaba 'No responde' al abrirse sin adaptador conectado (dialogo modal oculto detras de la ventana)."
 }
