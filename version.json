@@ -1,5 +1,5 @@
 {
-  "version": "3.0.62",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.62/DiagnostiCAN_PLUS_v3.0.62.zip",
-  "notes": "Fix critico: la actualizacion anterior no llegaba a arrancar en algunos PCs y la auto-recuperacion revertia sola a la ultima version estable. Causa: license_status() bloqueaba el arranque hasta 24s sin ninguna ventana visible. Ahora se calcula en segundo plano."
+  "version": "3.0.58",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.58/DiagnostiCAN_PLUS_v3.0.58.zip",
+  "notes": "Version estable. Las actualizaciones 3.0.59-3.0.62 se han retirado temporalmente del canal por un fallo en el empaquetado que impedia instalarlas."
 }
