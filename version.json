@@ -1,5 +1,5 @@
 {
-  "version": "3.0.60",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.60/DiagnostiCAN_PLUS_v3.0.60.zip",
-  "notes": "Fix real: la licencia pedia reactivarse en el mismo PC tras un cuelgue del sistema. Las consultas de huella del PC ahora reintentan y caen a un cache de disco si el sistema esta saturado. Incluye tambien el fix del cuelgue de Graficar en vivo, scroll de raton y carpetas por Marca/Modelo/Ano/Matricula de la 3.0.59."
+  "version": "3.0.61",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.61/DiagnostiCAN_PLUS_v3.0.61.zip",
+  "notes": "Mas margen en el calculo de la huella del PC (2 reintentos, mas timeout) tras repetirse el aviso de licencia pidiendo reactivacion en otro PC justo despues de actualizar."
 }
