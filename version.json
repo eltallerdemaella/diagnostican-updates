@@ -1,5 +1,5 @@
 {
-  "version": "2.0.51",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.51/DiagnostiCAN_PLUS_v2.0.51.zip",
-  "notes": "Se oculta la pestana LIN: el hardware actual no es compatible. El modulo se mantiene implementado por si se anade hardware compatible."
+  "version": "2.0.52",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.52/DiagnostiCAN_PLUS_v2.0.52.zip",
+  "notes": "La barra de conexion/captura CAN ya no invade pestanas que no la usan; en CAN, AVANZADO y el contador de tramas se reordenan."
 }
