@@ -1,5 +1,5 @@
 {
-  "version": "2.0.49",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.49/DiagnostiCAN_PLUS_v2.0.49.zip",
-  "notes": "Orden general: configuracion general a CONFIGURACION, cada pestana solo con lo suyo. TX de CAN junto a Vista, fusion de barras en BDD CAN, fix de scroll en CONFIGURACION."
+  "version": "2.0.50",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.50/DiagnostiCAN_PLUS_v2.0.50.zip",
+  "notes": "ADQUIRIR DID ahora sigue el tema claro/oscuro general del programa."
 }
