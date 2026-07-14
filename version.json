@@ -1,5 +1,5 @@
 {
-  "version": "2.0.47",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.47/DiagnostiCAN_PLUS_2.0.47.zip",
-  "notes": "Elimina la ventana Conexion WiFi redundante (⚙/Panel interno). Los 3 ajustes exclusivos se mueven a checkboxes en CONFIGURACION."
+  "version": "2.0.48",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.48/DiagnostiCAN_PLUS_2.0.48.zip",
+  "notes": "Reagrupa la barra CAN por funcion: selector de adaptador arriba junto a la lupa, acciones grandes junto a CONECTAR. Mas altura para la tabla."
 }
