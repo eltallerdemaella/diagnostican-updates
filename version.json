@@ -1,5 +1,5 @@
 {
-  "version": "3.0.58",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.58/DiagnostiCAN_PLUS_v3.0.58.zip",
-  "notes": "DiagnostiCAN+ Graficador y Analizador Mejorados (linea v3.x). Analizar+Graficar del sniffer rediseñado (inline, sin ventana nueva), grafica varias senales de la misma ID a la vez, busqueda en PARAMETROS de Registro, filtros subidos a la barra de visualizacion."
+  "version": "3.0.59",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.59/DiagnostiCAN_PLUS_v3.0.59.zip",
+  "notes": "Arreglado bug real que obligaba a cerrar el software desde el Administrador de tareas al pulsar Graficar en vivo (grafica de analisis decimada a 500 puntos por linea). Scroll de raton corregido en CONFIGURACION, comandos de DIAGNOSTICO EN VIVO y paneles del DATALOGGER. Dialogos Cargar abren en registros_dolz por defecto. Capturas organizadas por Marca/Modelo/Ano/Matricula."
 }
