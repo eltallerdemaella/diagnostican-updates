@@ -1,5 +1,5 @@
 {
-  "version": "2.0.48",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.48/DiagnostiCAN_PLUS_2.0.48.zip",
-  "notes": "Reagrupa la barra CAN por funcion: selector de adaptador arriba junto a la lupa, acciones grandes junto a CONECTAR. Mas altura para la tabla."
+  "version": "2.0.49",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.49/DiagnostiCAN_PLUS_v2.0.49.zip",
+  "notes": "Orden general: configuracion general a CONFIGURACION, cada pestana solo con lo suyo. TX de CAN junto a Vista, fusion de barras en BDD CAN, fix de scroll en CONFIGURACION."
 }
