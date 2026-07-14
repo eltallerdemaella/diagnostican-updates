@@ -1,5 +1,5 @@
 {
-  "version": "3.0.61",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.61/DiagnostiCAN_PLUS_v3.0.61.zip",
-  "notes": "Mas margen en el calculo de la huella del PC (2 reintentos, mas timeout) tras repetirse el aviso de licencia pidiendo reactivacion en otro PC justo despues de actualizar."
+  "version": "3.0.62",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.62/DiagnostiCAN_PLUS_v3.0.62.zip",
+  "notes": "Fix critico: la actualizacion anterior no llegaba a arrancar en algunos PCs y la auto-recuperacion revertia sola a la ultima version estable. Causa: license_status() bloqueaba el arranque hasta 24s sin ninguna ventana visible. Ahora se calcula en segundo plano."
 }
