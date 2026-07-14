@@ -1,5 +1,5 @@
 {
-  "version": "3.0.59",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.59/DiagnostiCAN_PLUS_v3.0.59.zip",
-  "notes": "Arreglado bug real que obligaba a cerrar el software desde el Administrador de tareas al pulsar Graficar en vivo (grafica de analisis decimada a 500 puntos por linea). Scroll de raton corregido en CONFIGURACION, comandos de DIAGNOSTICO EN VIVO y paneles del DATALOGGER. Dialogos Cargar abren en registros_dolz por defecto. Capturas organizadas por Marca/Modelo/Ano/Matricula."
+  "version": "3.0.60",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.60/DiagnostiCAN_PLUS_v3.0.60.zip",
+  "notes": "Fix real: la licencia pedia reactivarse en el mismo PC tras un cuelgue del sistema. Las consultas de huella del PC ahora reintentan y caen a un cache de disco si el sistema esta saturado. Incluye tambien el fix del cuelgue de Graficar en vivo, scroll de raton y carpetas por Marca/Modelo/Ano/Matricula de la 3.0.59."
 }
