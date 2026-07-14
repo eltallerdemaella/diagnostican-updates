@@ -1,5 +1,5 @@
 {
-  "version": "2.0.53",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.53/DiagnostiCAN_PLUS_v2.0.53.zip",
-  "notes": "Fix real: Registro Multiparametro se quedaba 'No responde' al abrirse sin adaptador conectado (dialogo modal oculto detras de la ventana)."
+  "version": "2.0.54",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.54/DiagnostiCAN_PLUS_v2.0.54.zip",
+  "notes": "Se quita el reloj redundante de la barra superior; filas vacias se ocultan enteras; tooltips en botones de icono de DECODIFICACION."
 }
