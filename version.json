@@ -1,5 +1,5 @@
 {
-  "version": "2.0.54",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.54/DiagnostiCAN_PLUS_v2.0.54.zip",
-  "notes": "Se quita el reloj redundante de la barra superior; filas vacias se ocultan enteras; tooltips en botones de icono de DECODIFICACION."
+  "version": "2.0.55",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.55/DiagnostiCAN_PLUS_v2.0.55.zip",
+  "notes": "Fix real: TclError al editar el byte al definir una funcion de ID (Analizar + Graficar en modo sniffer)."
 }
