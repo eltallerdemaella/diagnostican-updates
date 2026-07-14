@@ -1,5 +1,5 @@
 {
-  "version": "2.0.55",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.55/DiagnostiCAN_PLUS_v2.0.55.zip",
-  "notes": "Fix real: TclError al editar el byte al definir una funcion de ID (Analizar + Graficar en modo sniffer)."
+  "version": "3.0.58",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.58/DiagnostiCAN_PLUS_v3.0.58.zip",
+  "notes": "DiagnostiCAN+ Graficador y Analizador Mejorados (linea v3.x). Analizar+Graficar del sniffer rediseñado (inline, sin ventana nueva), grafica varias senales de la misma ID a la vez, busqueda en PARAMETROS de Registro, filtros subidos a la barra de visualizacion."
 }
