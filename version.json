@@ -1,5 +1,5 @@
 {
-  "version": "2.0.50",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.50/DiagnostiCAN_PLUS_v2.0.50.zip",
-  "notes": "ADQUIRIR DID ahora sigue el tema claro/oscuro general del programa."
+  "version": "2.0.51",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v2.0.51/DiagnostiCAN_PLUS_v2.0.51.zip",
+  "notes": "Se oculta la pestana LIN: el hardware actual no es compatible. El modulo se mantiene implementado por si se anade hardware compatible."
 }
