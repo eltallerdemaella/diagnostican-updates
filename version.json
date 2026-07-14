@@ -1,5 +1,5 @@
 {
-  "version": "3.0.58",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.58/DiagnostiCAN_PLUS_v3.0.58.zip",
-  "notes": "Version estable. Las actualizaciones 3.0.59-3.0.62 se han retirado temporalmente del canal por un fallo en el empaquetado que impedia instalarlas."
+  "version": "3.0.63",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.63/DiagnostiCAN_PLUS_v3.0.63.zip",
+  "notes": "Arregla el bucle de actualizacion (los zips 3.0.59-3.0.62 llevaban un archivo de estado ajeno que disparaba la auto-recuperacion en cada cliente). Nuevo: graficar bytes sueltos clicando su casilla en el sniffer, en tiempo real. Licencia: una lectura fallida del sistema ya no pide reactivar en el mismo PC."
 }
