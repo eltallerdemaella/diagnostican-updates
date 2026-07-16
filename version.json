@@ -1,5 +1,5 @@
 {
-  "version": "3.0.63",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.63/DiagnostiCAN_PLUS_v3.0.63.zip",
-  "notes": "Arregla el bucle de actualizacion (los zips 3.0.59-3.0.62 llevaban un archivo de estado ajeno que disparaba la auto-recuperacion en cada cliente). Nuevo: graficar bytes sueltos clicando su casilla en el sniffer, en tiempo real. Licencia: una lectura fallida del sistema ya no pide reactivar en el mismo PC."
+  "version": "3.0.64",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.64/DiagnostiCAN_PLUS_v3.0.64.zip",
+  "notes": "Grafica en vivo del sniffer mejorada: nueva opcion GRAFICAR COMBINADO (2+ bytes como un solo valor con decimales, p.ej. grados del volante B0.B1, con boton para invertir el orden), la grafica se abre ahora a la DERECHA del trafico en lugar de debajo, y controles tipo osciloscopio (ventana de tiempo 100/250/500 muestras con zoom de rueda, escala AUTO o fija 0-255)."
 }
