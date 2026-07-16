@@ -1,5 +1,5 @@
 {
-  "version": "3.0.66",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.66/DiagnostiCAN_PLUS_v3.0.66.zip",
-  "notes": "Nuevo DATALOGGER desatendido en Diagnostico en vivo: verificas los parametros en vivo (recepcion y coherencia) y desde ahi, con el boton DATALOGGER, los grabas de forma continua a disco. Solo graba lo que el coche responde de verdad y cada muestra se guarda al momento, asi que puedes dejar el portatil conectado al WiCAN en el coche y una averia esporadica de motor queda grabada aunque se corte la corriente. Funciona con el firmware de fabrica del WiCAN. Se revisa luego con CARGAR."
+  "version": "3.0.67",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.67/DiagnostiCAN_PLUS_v3.0.67.zip",
+  "notes": "Tres mejoras del taller: la grafica en vivo del sniffer vuelve DEBAJO de la tabla (a la derecha quedaba poco sitio) y estrena escala de tiempo tipo osciloscopio de 0.1 a 1 segundo por division; en las funciones guardadas (Definir funcion BDD) ya se pueden EDITAR junto al boton de papelera, para corregir una asignacion de bytes sin borrarla; y el motor de captura guiada descarta los bytes que ya cambian solos en reposo, evitando falsos positivos como el del potenciometro en B6/B7."
 }
