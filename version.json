@@ -1,5 +1,5 @@
 {
-  "version": "3.0.64",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.64/DiagnostiCAN_PLUS_v3.0.64.zip",
-  "notes": "Grafica en vivo del sniffer mejorada: nueva opcion GRAFICAR COMBINADO (2+ bytes como un solo valor con decimales, p.ej. grados del volante B0.B1, con boton para invertir el orden), la grafica se abre ahora a la DERECHA del trafico en lugar de debajo, y controles tipo osciloscopio (ventana de tiempo 100/250/500 muestras con zoom de rueda, escala AUTO o fija 0-255)."
+  "version": "3.0.65",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.65/DiagnostiCAN_PLUS_v3.0.65.zip",
+  "notes": "LEER/BORRAR AVERIAS con alcance a elegir: MOTOR (OBD de siempre) o VEHICULO COMPLETO, que busca todas las centralitas (ABS, airbag, carroceria, clima...) y lee o borra las averias de cada una por UDS, con resultado agrupado por unidad, descripcion y guia de causas por codigo. Incluye tambien la grafica en vivo mejorada de la 3.0.64 (combinar bytes con decimales, panel a la derecha, controles tipo osciloscopio)."
 }
