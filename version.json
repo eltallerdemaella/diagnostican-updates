@@ -1,5 +1,5 @@
 {
-  "version": "3.0.65",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.65/DiagnostiCAN_PLUS_v3.0.65.zip",
-  "notes": "LEER/BORRAR AVERIAS con alcance a elegir: MOTOR (OBD de siempre) o VEHICULO COMPLETO, que busca todas las centralitas (ABS, airbag, carroceria, clima...) y lee o borra las averias de cada una por UDS, con resultado agrupado por unidad, descripcion y guia de causas por codigo. Incluye tambien la grafica en vivo mejorada de la 3.0.64 (combinar bytes con decimales, panel a la derecha, controles tipo osciloscopio)."
+  "version": "3.0.66",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.66/DiagnostiCAN_PLUS_v3.0.66.zip",
+  "notes": "Nuevo DATALOGGER desatendido en Diagnostico en vivo: verificas los parametros en vivo (recepcion y coherencia) y desde ahi, con el boton DATALOGGER, los grabas de forma continua a disco. Solo graba lo que el coche responde de verdad y cada muestra se guarda al momento, asi que puedes dejar el portatil conectado al WiCAN en el coche y una averia esporadica de motor queda grabada aunque se corte la corriente. Funciona con el firmware de fabrica del WiCAN. Se revisa luego con CARGAR."
 }
