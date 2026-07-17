@@ -1,5 +1,5 @@
 {
-  "version": "3.0.70",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.70/DiagnostiCAN_PLUS_v3.0.70.zip",
-  "notes": "Arreglo importante de licencias: en PCs con varias tarjetas de red (WiFi, Ethernet, Bluetooth, adaptadores virtuales) la licencia dejaba de valer de un dia para otro y pedia reactivar aunque fuera el mismo equipo. Ya no: la activacion es estable con cualquier tarjeta de red del PC. Una licencia de otro ordenador se sigue rechazando. Si te pasaba lo de reactivar cada dia, con esta version se acaba."
+  "version": "3.0.71",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.71/DiagnostiCAN_PLUS_v3.0.71.zip",
+  "notes": "Pantalla de Registro: el boton FINALIZAR ahora cambia segun el estado -- CONECTAR/GRABAR (verde) cuando no estas grabando, FINALIZAR (rojo) mientras grabas y REANUDAR (amarillo) tras finalizar. Y quitado el boton BDD junto a PARAMETROS, que mostraba datos sin identificar que no aportaban."
 }
