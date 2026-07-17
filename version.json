@@ -1,5 +1,5 @@
 {
-  "version": "3.0.69",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.69/DiagnostiCAN_PLUS_v3.0.69.zip",
-  "notes": "Mejora interna de licencias: cada licencia queda vinculada a un cliente y su PC, y se puede cambiar de PC conservando la caducidad y el nivel del contrato (dando de baja el anterior). Al arrancar, la app comprueba de forma discreta si su licencia sigue activa (si se traslado a otro PC o se dio de baja, pasa a modo basico); sin conexion no molesta. No cambia nada del uso diario."
+  "version": "3.0.70",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.70/DiagnostiCAN_PLUS_v3.0.70.zip",
+  "notes": "Arreglo importante de licencias: en PCs con varias tarjetas de red (WiFi, Ethernet, Bluetooth, adaptadores virtuales) la licencia dejaba de valer de un dia para otro y pedia reactivar aunque fuera el mismo equipo. Ya no: la activacion es estable con cualquier tarjeta de red del PC. Una licencia de otro ordenador se sigue rechazando. Si te pasaba lo de reactivar cada dia, con esta version se acaba."
 }
