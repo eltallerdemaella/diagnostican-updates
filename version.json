@@ -1,5 +1,5 @@
 {
-  "version": "3.0.68",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.68/DiagnostiCAN_PLUS_v3.0.68.zip",
-  "notes": "El WiCAN Pro ya se puede usar como grabador OBD autonomo en su tarjeta SD, sin portatil en el coche: marcas los PID en Registro, verificas en vivo que llegan y pulsas Preparar grabacion (DATALOGGER - WICAN PRO). Nuevo arranque por voltaje: el adaptador graba solo con el motor en marcha (alternador cargando) y se duerme al pararlo, sin descargar la bateria. Luego se descarga por WiFi. (El logging a SD necesita la linea de firmware con logger; el programa avisa si el adaptador aun no lo trae.)"
+  "version": "3.0.69",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.69/DiagnostiCAN_PLUS_v3.0.69.zip",
+  "notes": "Mejora interna de licencias: cada licencia queda vinculada a un cliente y su PC, y se puede cambiar de PC conservando la caducidad y el nivel del contrato (dando de baja el anterior). Al arrancar, la app comprueba de forma discreta si su licencia sigue activa (si se traslado a otro PC o se dio de baja, pasa a modo basico); sin conexion no molesta. No cambia nada del uso diario."
 }
