@@ -1,5 +1,5 @@
 {
-  "version": "3.0.72",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.72/DiagnostiCAN_PLUS_v3.0.72.zip",
-  "notes": "Firmware propio DiagnostiCAN: el adaptador se identifica como DiagnostiCAN_<n> y trabaja siempre en SLCAN. El software reconoce el nuevo SSID, ya no reinicia el adaptador al cambiar entre sniffer y OBD en vivo/registro (fin del bucle de reconexion y perdida de trafico), la barra de comandos ya no desaparece al cambiar de pestana, y hay un nuevo boton ENVIAR/RECIBIR junto a ABRIR LOGS para forzar el envio de avisos pendientes y comprobar actualizaciones."
+  "version": "3.0.73",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.73/DiagnostiCAN_PLUS_v3.0.73.zip",
+  "notes": "Arreglo del no-funciona-nada tras la 3.0.72: el software asegura el modo slcan del adaptador al conectar. Un WiCAN que quedo en elm327 se corrige solo (un reinicio); uno con el firmware nuevo, ya en slcan, no se reinicia. Fin del bucle de reconexion y de los errores de socket por desajuste de modo."
 }
