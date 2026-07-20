@@ -1,5 +1,5 @@
 {
-  "version": "3.0.75",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.75/DiagnostiCAN_PLUS_v3.0.75.zip",
-  "notes": "El software asegura el modo SLCAN del adaptador al conectar (para cualquier configuracion). Arregla el no-funciona sniffer ni OBD cuando el WiCAN se quedaba en elm327 tras preparar grabacion."
+  "version": "3.0.76",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.76/DiagnostiCAN_PLUS_v3.0.76.zip",
+  "notes": "Busqueda guiada: filtro por cadencia humana (por byte; continuos con 16 bits). Grabaciones de horas: conversor en streaming. Mensajes claros al importar grabacion y en mostrar candidatos."
 }
