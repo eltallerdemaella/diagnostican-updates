@@ -1,5 +1,5 @@
 {
-  "version": "3.0.71",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.71/DiagnostiCAN_PLUS_v3.0.71.zip",
-  "notes": "Pantalla de Registro: el boton FINALIZAR ahora cambia segun el estado -- CONECTAR/GRABAR (verde) cuando no estas grabando, FINALIZAR (rojo) mientras grabas y REANUDAR (amarillo) tras finalizar. Y quitado el boton BDD junto a PARAMETROS, que mostraba datos sin identificar que no aportaban."
+  "version": "3.0.72",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.72/DiagnostiCAN_PLUS_v3.0.72.zip",
+  "notes": "Firmware propio DiagnostiCAN: el adaptador se identifica como DiagnostiCAN_<n> y trabaja siempre en SLCAN. El software reconoce el nuevo SSID, ya no reinicia el adaptador al cambiar entre sniffer y OBD en vivo/registro (fin del bucle de reconexion y perdida de trafico), la barra de comandos ya no desaparece al cambiar de pestana, y hay un nuevo boton ENVIAR/RECIBIR junto a ABRIR LOGS para forzar el envio de avisos pendientes y comprobar actualizaciones."
 }
