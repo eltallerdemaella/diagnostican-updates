@@ -1,5 +1,5 @@
 {
-  "version": "3.0.74",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.74/DiagnostiCAN_PLUS_v3.0.74.zip",
-  "notes": "Pantalla de actualizacion a pantalla completa con el logo (como el arranque): visible durante descarga, instalacion y reinicio, sin clic intermedio, para que la espera no sea a ciegas."
+  "version": "3.0.75",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.75/DiagnostiCAN_PLUS_v3.0.75.zip",
+  "notes": "El software asegura el modo SLCAN del adaptador al conectar (para cualquier configuracion). Arregla el no-funciona sniffer ni OBD cuando el WiCAN se quedaba en elm327 tras preparar grabacion."
 }
