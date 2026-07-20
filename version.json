@@ -1,5 +1,5 @@
 {
-  "version": "3.0.73",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.73/DiagnostiCAN_PLUS_v3.0.73.zip",
-  "notes": "Arreglo del no-funciona-nada tras la 3.0.72: el software asegura el modo slcan del adaptador al conectar. Un WiCAN que quedo en elm327 se corrige solo (un reinicio); uno con el firmware nuevo, ya en slcan, no se reinicia. Fin del bucle de reconexion y de los errores de socket por desajuste de modo."
+  "version": "3.0.74",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.74/DiagnostiCAN_PLUS_v3.0.74.zip",
+  "notes": "Pantalla de actualizacion a pantalla completa con el logo (como el arranque): visible durante descarga, instalacion y reinicio, sin clic intermedio, para que la espera no sea a ciegas."
 }
