@@ -1,5 +1,5 @@
 {
-  "version": "3.0.76",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.76/DiagnostiCAN_PLUS_v3.0.76.zip",
-  "notes": "Busqueda guiada: filtro por cadencia humana (por byte; continuos con 16 bits). Grabaciones de horas: conversor en streaming. Mensajes claros al importar grabacion y en mostrar candidatos."
+  "version": "3.0.78",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.78/DiagnostiCAN_v3.0.78.zip",
+  "notes": "La linea normal pasa a llamarse DiagnostiCAN (sin +), enfocada a un solo hardware. Ejecutable DiagnostiCAN.exe. Requiere REINSTALAR (el exe cambio de nombre). La version DiagnostiCAN+ con CANedge queda congelada."
 }
