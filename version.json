@@ -1,5 +1,5 @@
 {
-  "version": "3.0.78",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.78/DiagnostiCAN_v3.0.78.zip",
-  "notes": "La linea normal pasa a llamarse DiagnostiCAN (sin +), enfocada a un solo hardware. Ejecutable DiagnostiCAN.exe. Requiere REINSTALAR (el exe cambio de nombre). La version DiagnostiCAN+ con CANedge queda congelada."
+  "version": "3.0.79",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.79/DiagnostiCAN_v3.0.79.zip",
+  "notes": "Activacion online (correo + clave de registro) y portal de descarga por email. Requiere reinstalar si vienes del exe DiagnostiCAN_PLUS."
 }
