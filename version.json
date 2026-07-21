@@ -1,5 +1,5 @@
 {
-  "version": "3.0.81",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.81/DiagnostiCAN_v3.0.81.zip",
-  "notes": "Modo CRUDO en el datalogger: graba todo el bus CAN (estilo CANedge) con filtro por ID y descarga a CSV por WiFi. Requiere firmware DiagnostiCAN Alpha 0.11 en el adaptador."
+  "version": "3.0.82",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.82/DiagnostiCAN_v3.0.82.zip",
+  "notes": "Instalacion de cliente robusta: repone sola la config de datos que falte en el primer arranque. Activacion online y Notificar error funcionan sin config previa. Arreglos en Registro (cargar CSV, zoom de tiempo, aviso de guardar)."
 }
