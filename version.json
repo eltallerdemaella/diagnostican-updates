@@ -1,5 +1,5 @@
 {
-  "version": "3.0.79",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.79/DiagnostiCAN_v3.0.79.zip",
-  "notes": "Activacion online (correo + clave de registro) y portal de descarga por email. Requiere reinstalar si vienes del exe DiagnostiCAN_PLUS."
+  "version": "3.0.80",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.80/DiagnostiCAN_v3.0.80.zip",
+  "notes": "Muestreo sub-segundo (~3 muestras/s) con autoescala por numero de PIDs en el datalogger. Requiere firmware DiagnostiCAN Alpha 0.10 en el adaptador."
 }
