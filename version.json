@@ -1,5 +1,5 @@
 {
-  "version": "3.0.80",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.80/DiagnostiCAN_v3.0.80.zip",
-  "notes": "Muestreo sub-segundo (~3 muestras/s) con autoescala por numero de PIDs en el datalogger. Requiere firmware DiagnostiCAN Alpha 0.10 en el adaptador."
+  "version": "3.0.81",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.81/DiagnostiCAN_v3.0.81.zip",
+  "notes": "Modo CRUDO en el datalogger: graba todo el bus CAN (estilo CANedge) con filtro por ID y descarga a CSV por WiFi. Requiere firmware DiagnostiCAN Alpha 0.11 en el adaptador."
 }
