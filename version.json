@@ -1,5 +1,5 @@
 {
-  "version": "3.0.86",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.86/DiagnostiCAN_v3.0.86.zip",
-  "notes": "Notificar error en primer plano + fix idna (sin trafico tras flasheo)."
+  "version": "3.0.87",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.87/DiagnostiCAN_v3.0.87.zip",
+  "notes": "Canales de actualizacion independientes normal/plus + fix idna."
 }
