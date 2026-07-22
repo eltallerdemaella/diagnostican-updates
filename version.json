@@ -1,5 +1,5 @@
 {
-  "version": "3.0.90",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.90/DiagnostiCAN_v3.0.90.zip",
-  "notes": "Dormido/inicio grabacion 12.6V editable + dos interruptores."
+  "version": "3.0.93",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.93/DiagnostiCAN_v3.0.93.zip",
+  "notes": "Fix conexion adaptador: red visible prioridad, solo SSID DiagnostiCAN."
 }
