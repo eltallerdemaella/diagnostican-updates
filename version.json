@@ -1,5 +1,5 @@
 {
-  "version": "3.0.83",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.83/DiagnostiCAN_v3.0.83.zip",
-  "notes": "Notificar error funciona sin licencia activa (diagnostico de activacion) + boton de enviar informe en la pantalla de activacion."
+  "version": "3.0.84",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.84/DiagnostiCAN_v3.0.84.zip",
+  "notes": "Activacion online (correo + clave) tambien en Gestionar licencia."
 }
