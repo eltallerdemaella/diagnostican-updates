@@ -1,5 +1,5 @@
 {
-  "version": "3.0.85",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.85/DiagnostiCAN_v3.0.85.zip",
-  "notes": "IMPORTANTE: arreglado el 'sin trafico tras flasheo' (faltaba el codec idna -> fallaba la config HTTP del adaptador)."
+  "version": "3.0.86",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.86/DiagnostiCAN_v3.0.86.zip",
+  "notes": "Notificar error en primer plano + fix idna (sin trafico tras flasheo)."
 }
