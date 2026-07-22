@@ -1,5 +1,5 @@
 {
-  "version": "3.0.82",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.82/DiagnostiCAN_v3.0.82.zip",
-  "notes": "Instalacion de cliente robusta: repone sola la config de datos que falte en el primer arranque. Activacion online y Notificar error funcionan sin config previa. Arreglos en Registro (cargar CSV, zoom de tiempo, aviso de guardar)."
+  "version": "3.0.83",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.83/DiagnostiCAN_v3.0.83.zip",
+  "notes": "Notificar error funciona sin licencia activa (diagnostico de activacion) + boton de enviar informe en la pantalla de activacion."
 }
