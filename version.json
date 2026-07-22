@@ -1,5 +1,5 @@
 {
-  "version": "3.0.89",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.89/DiagnostiCAN_v3.0.89.zip",
-  "notes": "Arreglado sin trafico: puerto slcan 35000 (no 23)."
+  "version": "3.0.90",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.90/DiagnostiCAN_v3.0.90.zip",
+  "notes": "Dormido/inicio grabacion 12.6V editable + dos interruptores."
 }
