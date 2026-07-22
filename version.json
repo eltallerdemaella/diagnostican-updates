@@ -1,5 +1,5 @@
 {
-  "version": "3.0.84",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.84/DiagnostiCAN_v3.0.84.zip",
-  "notes": "Activacion online (correo + clave) tambien en Gestionar licencia."
+  "version": "3.0.85",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.85/DiagnostiCAN_v3.0.85.zip",
+  "notes": "IMPORTANTE: arreglado el 'sin trafico tras flasheo' (faltaba el codec idna -> fallaba la config HTTP del adaptador)."
 }
