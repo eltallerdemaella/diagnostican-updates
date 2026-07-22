@@ -1,5 +1,5 @@
 {
-  "version": "3.0.87",
-  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.87/DiagnostiCAN_v3.0.87.zip",
-  "notes": "Canales de actualizacion independientes normal/plus + fix idna."
+  "version": "3.0.88",
+  "url": "https://github.com/eltallerdemaella/diagnostican-updates/releases/download/v3.0.88/DiagnostiCAN_v3.0.88.zip",
+  "notes": "Auto-conexion al WiFi del adaptador (crea el perfil con la clave)."
 }
